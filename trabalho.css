@@ -1,0 +1,113 @@
+
+body{
+    margin: 0 ;
+    background-color:rgba(107, 88, 76, 0.63)  ;
+}
+
+h1{  
+
+    text-align: center;
+}
+title{
+    font-family: 'Satisfy', cursive;
+}
+
+h2{
+    font-family: arial;
+    font-size: 20px ;
+    color:rgb(34, 36, 37); 
+}
+
+p{
+    font-family: Arial;
+    font-size: 20px;
+    color: rgb(31, 30, 28);
+}
+
+header{
+    background-color: rgb(228, 202, 185);
+}
+
+.cabeçalho{
+    text-align: center;
+    background-color:rgb(209, 198, 193) ;
+    color: rgb(34, 36, 37);
+    margin: 0;
+    border: solid rgb(197, 183, 177) 8px;
+   
+}
+
+
+nav ul{ 
+    box-sizing: border-box ;
+    padding: 10px;
+    list-style-type: none;
+    width: 100%;
+    display: flex ;
+
+    flex-direction: row;
+    justify-content: space-around ;
+
+}
+#clique{
+    font-size: 20px;
+}
+
+
+
+
+
+.conteudo{ 
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   }
+
+#machado{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    background-color: rgb(209, 198, 193);
+}
+#imagens{ 
+    height: 300px;
+    width: 300px;
+   
+    
+}
+#imagemPrincipal{
+    margin:0 auto;
+    display: block;
+}
+
+    
+
+.alinharAesquerda{
+     float: right ;
+    padding-right: 50px;
+}
+h2{
+    text-align: center;
+}
+.ma{ float: right ;
+    padding-right: 50px;
+    height: 150px;
+    width: 150px;
+}
+.pm{ margin:0 auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+.quadrinhos{
+    margin:0 auto;
+    display: block;
+
+}
+.hq{
+    text-align: center;
+}
+
+
